@@ -1,3 +1,7 @@
 title: "CV - Julien"
 description: "Portfolio étudiant BTS SIO"
 theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
