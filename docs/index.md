@@ -4,7 +4,7 @@ title: Accueil
 ---
 
 
-# 👋 Bienvenue sur mon portfolio
+# Bienvenue sur mon portfolio
 
 
 ## 🏠 Page d'accueil
@@ -62,6 +62,24 @@ Après **mon BTS**, je cherche à passer le **concour B prog** de la direction g
 
 > La première année, qui touche à son terme, m’a permis de consolider mes compétences et d’en développer de nouvelles, notamment en réseau.
 
+
+## Compétences techniques
+~~~
+Language : Java, C#, Python, PHP
+Compétence : Programation Objet, Git
+~~~
+
+
+## Projets
+~~~
+Duel TCG Pokemon - Java (FXML)
+Altérateur d'image - C
+Gestion d'une cantine - PHP
+Gestion d'employers et des notes de frais - C# (winForm)
+~~~
+
 ---
 
-*Dernière mise à jour : Avril 2026*
+
+
+*Dernière mise à jour : Mai 2026*
